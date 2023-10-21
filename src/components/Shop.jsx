@@ -11,7 +11,7 @@ const storeItems = [
     }
 ]
 
-export function Shop(){
+export function Shop() {
     return(
         <>
             <h1>Pafume store</h1>
